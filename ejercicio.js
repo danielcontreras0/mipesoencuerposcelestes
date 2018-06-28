@@ -57,7 +57,7 @@ respuesta.innerHTML = "tu peso en Jupiter es " + peso_final +" kilos ";
              else if (planeta.value ==8)
              {
                peso_final = Math.floor(peso.value* g_neptuno / g_tierra);
-               respuesta.innerHTML = "tu peso en Marte es " + peso_final + " kilos " + "sabias que neptuno se le nombra así por el dios de los mares en la antigua Roma";
+               respuesta.innerHTML = "tu peso en Neptuno es " + peso_final + " kilos " + "sabias que neptuno se le nombra así por el dios de los mares en la antigua Roma";
              }
                else
                {
